@@ -1,0 +1,23 @@
+/* *****************************************************
+
+    ** Custom Stylesheet **
+
+    Any custom styling you want to apply should be
+    defined here.
+
+***************************************************** */
+
+
+
+ .maping .datacenters.australia {
+    top: 79%;
+    left: 82%;
+}
+.maping .datacenters.los-angeles {
+    top: 42%;
+    left: 12%;
+}
+.maping .datacenters.germany {
+    top: 39%;
+    left: 52%;
+}
